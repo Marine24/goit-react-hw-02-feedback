@@ -1,0 +1,13 @@
+.feedbackButtons {
+  width: 100px;
+  height: 50px;
+  margin-left: 5px;
+  font-size: 18px;
+  border-radius: 5px;
+  background-color: blanchedalmond;
+  border: none;
+  cursor: pointer;
+}
+.feedbackButtons:hover {
+  background-color: rgb(236, 167, 62);
+}
